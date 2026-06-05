@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+title: Optimising feather porosity for drag-dominated flight using Gaussian Process Regression and Bayesian Optimization
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Tan"
+  given-names: "Wen Tong Kenne"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Lisa"
+  given-names: "Mona"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "shuttlecock-porosity-optimization-"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2026-06-05
+url: "https://github.com/Kennetan2/shuttlecock-porosity-optimization-"
+license: MIT
+
+keywords:
+  - badminton
+  - artificial intelligence
+  - shuttlecock
+  - aerodynamics
+  - machine learning
+  - gaussian process regression
+  - bayesian optimization
+  - sports engineering
+  - aerodynamic roughness length
