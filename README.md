@@ -104,7 +104,7 @@ Minimum Objective Value:
 ## Software and Libraries
 
 Python Version:
-Python 3.x
+Python 3.14.5
 
 Libraries:
 
